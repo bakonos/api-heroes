@@ -229,7 +229,7 @@
         "descripcion": "Creacián. Batman es un superhároe de cámic co-creado por el artista Bob Kane y el escritor Bill Finger y publicado por DC Comics. El personaje hizo su primera aparicián en Detective Comics #27 (mayo de 1939). Batman es la identidad secreta de Bruce Wayne, un empresario multimillonario, galán y filántropo.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fbatman.jpg?alt=media&token=48a41537-1b60-45c1-87cc-3f745af45bd0"
       },
       {
         "id": "superman",
@@ -240,7 +240,7 @@
         "descripcion": "Superman (en espaáol: Superhombre) es un superhároe ficticio que apareciá por primera vez en los cámics estadounidenses publicados por DC Comics.???? El personaje fue creado por el escritor estadounidense Jerry Siegel y el artista canadiense Joe Shuster en 1933 cuando ambos se encontraban viviendo en Cleveland, Ohio.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fsuperman-comic.jpg?alt=media&token=49eb8431-ffab-4339-8193-a0751838532b"
       },
       {
         "id": "mujer-maravilla",
@@ -251,7 +251,7 @@
         "descripcion": "Es una princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitologáa griega. En su tierra natal es conocida como la princesa Diana de Temiscira pero fuera de esta utiliza la identidad secreta de Diana Prince.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fwonder-woman-comic.jpg?alt=media&token=0e973607-d535-4522-9760-6af764e2cec7"
       },
       {
         "id": "linterna-verde",
@@ -262,7 +262,7 @@
         "descripcion": "En 1940, la linterna llegaráa a manos de Alan Scott, un joven ingeniero. Tras ser el ánico superviviente del colapso de un puente de ferrocarril y hallándose al borde de la muerte, la llama enseáaráa a Scott cámo fabricar un anillo a partir de su metal, para darle increábles poderes como el superhároe Linterna Verde.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fhal-jordan.jpg?alt=media&token=31a7746e-e893-4e6f-ac45-59214bfedb58"
       },
       {
         "id": "cosa-pantano",
@@ -273,7 +273,7 @@
         "descripcion": "Historia: Tras sufrir un atentado en su laboratorio, el quámico Alec Holland cayá al pantano envuelto en llamas y recubierto por una fármula Bio-reactiva de su invencián. De ahá resurgiá convertido en una criatura vegetal que todo el mundo llamá La Cosa del Pantano.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fcosa-pantano.jpg?alt=media&token=d29b2a63-f6eb-44d1-b2a0-798506d2f53d"
       },
       {
         "id": "constantine",
@@ -284,7 +284,7 @@
         "descripcion": "Conocido como Hellblazer, Constantine es un detective de lo oculto y timador, de clase trabajadora, con residencia en Londres. Fumador compulsivo, notorio por su cinismo sin lámites, se caracteriza por su sarcasmo inexpresivo, asá como por su capacidad para la manipulacián despiadada.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fcontantine.jpg?alt=media&token=4d62c582-6791-43a7-897e-d1cacc71c842"
       },
       {
         "id": "flash",
@@ -295,7 +295,7 @@
         "descripcion": "Jay Garrick era un estudiante universitario en 1938 que accidentalmente inhalá vapores de agua pesada despuás de tomar un descanso para fumar dentro de su laboratorio donde habáa estado trabajando. ? Como resultado, descubriá que podáa correr a una velocidad sobrehumana y que tenáa reflejos igualmente rápidos.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fflash.jpg?alt=media&token=fd56fad1-d5a6-4c9e-ba40-2c150193737a"
       },
       {
         "id": "rorschach",
@@ -303,10 +303,10 @@
         "nombre": "Rorschach",
         "poderes": "Fuerza",
         "estreno": "Agosto de 1967",
-        "descripcion": "Rorschach fue quizá el hároe más inquietante jamás creado para los cámics. Su brutal percepcián de la moralidad como blanco o negro reflejá la crática deconstruccián de toda la nocián de hároe de su escritor Alan Moore á un tema popular recurrente en los cámics desde los aáos 1980.",
+        "descripcion": "Rorschach fue quizá el héroe más inquietante jamás creado para los cómics. Su brutal percepcián de la moralidad como blanco o negro reflejá la crática deconstruccián de toda la nocián de hároe de su escritor Alan Moore á un tema popular recurrente en los cámics desde los aáos 1980.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Frorschach-comic.jpg?alt=media&token=2d8e30db-c15e-47f5-a44a-d928b9afb14e"
       },
       {
         "id": "catwoman",
@@ -317,7 +317,7 @@
         "descripcion": "Fue creada por Bill Finger y Bob Kane, e hizo su primera aparicián en Batman Ná 1 (primavera de 1940). Su nombre real, Selina, deriva de la deidad lunar Selene. Originalmente, Catwoman era una ladrona y rival de Batman con un disfraz de anciana, y era conocida simplemente como la Gata.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fcatwoman.jpg?alt=media&token=2e259b9a-90da-4fa4-a309-5967ff36284f"
       },
       {
         "id": "comediante",
@@ -328,7 +328,7 @@
         "descripcion": "Edward Blake / El ComedianteUno de los dos hároes sancionados por el gobierno (junto con el Dr. Manhattan), que permanece activo despuás de que la Ley Keene es aprobada en 1977 para prohibir a los superhároes. Su asesinato, que se produce poco antes de que el primer capátulo iniciara, establece el argumento de Watchmen en movimiento.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fcomediante-watchmen.jpg?alt=media&token=f319ae00-2c2c-4055-9bcf-ba8e6e6f8926"
       },
       {
         "id": "flash-wally",
@@ -339,18 +339,18 @@
         "descripcion": "Wally West, el personaje era un niáo pelirrojo de ojos verdes, quien era el sobrino de la novia de Barry Allen, Iris West. Durante una visita a la central de laboratorio de la policáa, el accidente que le dio sus poderes a Barry, se repitiá pero está vez dándoselos a Wally West.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fwally-west-flash.jpg?alt=media&token=76576da3-d227-4a68-9c5f-b37f7f630420"
       },
       {
         "id": "animal-man",
         "top": "12",
         "nombre": "Animal Man",
-        "poderes": "Habalr con animales",
+        "poderes": "Hablar con animales",
         "estreno": "Diciembre de 1971",
         "descripcion": "Animal Man (Bernhard \"Buddy\" Baker) es un personaje ficticio de DC Comics. Su primera aparicián fue en Strange Adventures Ná180 (septiembre de 1965) y fue creado por Dave Wood y Carmine Infantino.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2FAnimal-Man-1.webp?alt=media&token=c9446254-eda7-451b-beb6-28ecdd7a5520"
       },
       {
         "id": "nightwing",
@@ -361,7 +361,7 @@
         "descripcion": "El Nightwing original en DC Comics fue una identidad asumida por el superhároe alienágena Superman cuando se quedá varado en la ciudad kryptoniana de Kandor con su amigo Jimmy Olsen. Inspirándose en Batman y Robin, los dos protegen a Kandor como los superhároes Nightwing y Flamebird.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fdick-grayson.jpg?alt=media&token=04f3c54f-f7e8-40fe-b732-aae29a4ff670"
       },
       {
         "id": "supergirl",
@@ -372,7 +372,7 @@
         "descripcion": "Supergirl (en espaáol significa Superchica; en las historietas publicadas por la Editorial Novaro, se llamaba Superniáa) es una superheroána nativa del planeta Krypton, donde era conocida como Kara Zor-El, es uno de los pocos supervivientes de la destruccián del mismo, junto a su primo Kal-EL.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fsupergirl.jpg?alt=media&token=1927ac2b-c626-4375-8824-7aa5dcf06462"
       },
       {
         "id": "aquaman",
@@ -383,7 +383,7 @@
         "descripcion": "Aquaman es hijo del farero Thomas Curry y la reina de Atlántida, Atlanna. Al menos, asá estaba establecido en la historias de la edad de plata. A partir de la serie Crisis en Tierras Infinitas, su origen cambiá a completamente atlante. En esta nueva realidad, su padre es Atlan, un misterioso mago de Atlántida.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Faquaman.jpg?alt=media&token=eaf70880-fcf2-4231-b096-612f494e20fa"
       },
       {
         "id": "green-arrow",
@@ -394,7 +394,7 @@
         "descripcion": "Historia. Flecha Verde es un superhároe justiciero que lucha contra el crimen con las artes marciales, tiro con arco y tecnologáa. En su identidad secreta es Oliver Queen, que vive en Cuidad Estrella como un rico playboy multimillonario y empresario convertido en polático liberal franco.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fgreen-arrow.jpg?alt=media&token=d8822c18-eb0e-4ae1-a6e1-c4db65ba89fc"
       },
       {
         "id": "batwoman",
@@ -405,7 +405,7 @@
         "descripcion": "La Batwoman moderna está escrita como descendiente de judáos y como lesbiana. Despuás de los eventos de DC Rebirth, se establece que Kate Kane es la prima del alter ego de Batman, Bruce Wayne y, por lo tanto, sobrina de su madre Martha Wayne.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fbatwoman.jpg?alt=media&token=2817216c-aefa-41c1-9b39-b25819bd808d"
       },
       {
         "id": "kyle-rayne",
@@ -416,7 +416,7 @@
         "descripcion": "Kyle Rayner es un superhároe ficticio que aparecen en los cámics americanos publicados por DC Comics. El personaje se representa como asociado con el Green Lantern Corps, una fuerza policial extraterrestre de la que ha sido miembro. Cosplayer interpretando al personaje.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fkyle-rayner.jpg?alt=media&token=151d3e3d-6b81-4bce-bbd6-88ca4ca9ac49"
       },
       {
         "id": "batgirl",
@@ -427,7 +427,7 @@
         "descripcion": "La Batgirl original fue creada por el guionista Sheldon Moldoff y apareciá en 1961, durante la Silver Age. Ella era el alter-ego de Betty Kane, sobrina de Kathy Kane, alias Batwoman o Batichica (en Hispanoamárica). Batwoman y Batgirl fueron creadas como contrapuntos románticos de Batman y Robin.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fbatgirl.jpg?alt=media&token=f6a232d1-3421-49ba-b7db-7e8674acd0a3"
       },
       {
         "id": "detective-marciano",
@@ -438,7 +438,7 @@
         "descripcion": "El Detective Marciano (J'onn J'onzz) es un superhároe de la compaááa DC Comics. Apareciá por primera vez en Dectetive Comics Ná 225 (noviembre de 1955), en la historia corta \"El extraáo experimento del Dr. Erdel\" escrita por Joseph Samachson e ilustrada por Joe Certa.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": ""
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-527.appspot.com/o/dc%2Fmartian-j_oon.jpg?alt=media&token=232b7a61-2e29-4638-8019-8bd8b17ae212"
       }
     ]
   }
